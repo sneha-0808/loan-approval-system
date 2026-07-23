@@ -117,7 +117,7 @@ Enter the applicant's financial and personal details below to run the assessment
 
 developer_info = """
 ### About the Developer
-**Created by:** Chandan Saroj
+**Created by:** Sneha
 
 * **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
 * **GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
